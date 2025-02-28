@@ -1,9 +1,6 @@
-# mobile-app
-Creating a **README.md** file for your mobile app built with Expo is essential for documenting your project, explaining how to set it up, and providing usage instructions. Below is a template you can use for your GitHub repository:
-
 ---
 
-# **MyApp**
+# **mobile-app**
 
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
