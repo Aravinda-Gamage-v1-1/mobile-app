@@ -5,14 +5,14 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**MyApp** is a cross-platform mobile app built with **Expo** and **React Native**. It provides [brief description of your app's purpose or features].
+**MyApp** is a cross-platform mobile app built with **Expo** and **React Native**. It provides,
 
 ---
 
 ## **Features**
-- Feature 1: [Describe a key feature]
-- Feature 2: [Describe another key feature]
-- Feature 3: [Add more features as needed]
+- Feature 1: 
+- Feature 2: 
+- Feature 3:
 
 ---
 
